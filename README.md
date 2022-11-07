@@ -1,6 +1,6 @@
 ![I am Professional Web developer](https://media-exp1.licdn.com/dms/image/C4E16AQEHpc3B-F0gFg/profile-displaybackgroundimage-shrink_200_800/0/1630348838271?e=2147483647&v=beta&t=sMBhWcykNbm2SskpePyJA1C3eO3FqEJLwBbNpiom6zk)
-<h1 align="center">Hi 👋, I'm Nurul Islam Junayed</h1>
-<h3 align="center">I am Professional Web developer In Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Nurul Islam Junayed</h1>
+<h3 align="left">I am Professional Web developer In Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junayed78&label=Profile%20views&color=0e75b6&style=flat" alt="junayed78" /> </p>
 
